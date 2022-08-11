@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto:wght@100 & display=swap');
+/* index */
+body{
+    font-family:'Roboto', sans-serif;
+    background-color:rgba(224, 91, 9, 0.46)
+    ;
+}
+.fondoNav{
+    background-color: rgba(194, 80, 14, 0.689);
+}
+
+.w-98{
+    width:98%;
+}
+nav ul li{
+    font-size: 1.5rem;
+}
+
+.fondoCard { background-color: rgb(203, 91, 12);
+}
+
+h1,h2,h3 {
+    background-color: #d04a0b;
+    border-radius: 8px;
+    display: inline-block;
+    color: #f2d0c1;
+    padding: 0.3rem; }
+  
+  .card-title {
+    color: #f2dbc1; }
+  
+  .card-text {
+    color: #f2dbc1;
+    font-size: 1.5rem; }
+  
+  .card-border {
+    border-radius: 10px; }
+
+    .img-footer {
+        width: 50px; }
+        @media (min-width: 215px) and (max-width: 400px) {
+          .img-footer {
+            width: 50px; } }
+
+            label, input {
+                font-size: 1.1rem; }
+                .form-label {
+                    background-color: #ea870d;
+                    border-radius: 8px; }
+
+      
+  
+  
+
+
